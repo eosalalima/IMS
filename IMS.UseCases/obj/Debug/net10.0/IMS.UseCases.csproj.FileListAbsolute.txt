@@ -1,0 +1,15 @@
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\bin\Debug\net10.0\IMS.UseCases.deps.json
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\bin\Debug\net10.0\IMS.UseCases.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\bin\Debug\net10.0\IMS.UseCases.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\bin\Debug\net10.0\IMS.CoreBusiness.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\bin\Debug\net10.0\IMS.CoreBusiness.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.csproj.AssemblyReference.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.AssemblyInfoInputs.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.AssemblyInfo.cs
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseC.984B1879.Up2Date
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\refint\IMS.UseCases.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\ref\IMS.UseCases.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3146ioYosI=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\Training\\dotNET Master Blazor Build Inventory System\\Application\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric Salalima\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.app.internal.assets.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}

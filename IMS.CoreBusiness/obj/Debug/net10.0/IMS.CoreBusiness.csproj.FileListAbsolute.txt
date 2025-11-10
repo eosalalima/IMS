@@ -1,0 +1,11 @@
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\bin\Debug\net10.0\IMS.CoreBusiness.deps.json
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\bin\Debug\net10.0\IMS.CoreBusiness.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\bin\Debug\net10.0\IMS.CoreBusiness.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\IMS.CoreBusiness.AssemblyInfo.cs
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\IMS.CoreBusiness.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\refint\IMS.CoreBusiness.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\IMS.CoreBusiness.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.CoreBusiness\obj\Debug\net10.0\ref\IMS.CoreBusiness.dll

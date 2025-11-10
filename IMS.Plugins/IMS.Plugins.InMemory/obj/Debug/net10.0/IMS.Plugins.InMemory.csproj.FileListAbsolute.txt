@@ -1,0 +1,17 @@
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.Plugins.InMemory.deps.json
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.Plugins.InMemory.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.Plugins.InMemory.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.CoreBusiness.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.UseCases.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.UseCases.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net10.0\IMS.CoreBusiness.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plug.DF2EEC9E.Up2Date
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\refint\IMS.Plugins.InMemory.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.pdb
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\ref\IMS.Plugins.InMemory.dll
