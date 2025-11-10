@@ -15,3 +15,4 @@ F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\refint\IMS.Plugins.InMemory.dll
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.pdb
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\ref\IMS.Plugins.InMemory.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net10.0\IMS.Plugins.InMemory.sourcelink.json

@@ -28,10 +28,10 @@ else
     private List<Inventory>? inventories;
 
     [Parameter]
-    public string? SearchInventoryFilter { get; set; }
+    public string? SearchInventoryFilter { get; set; }   
 
-    override protected async Task OnInitializedAsync()
+    protected override async Task OnParametersSetAsync()
     {
         inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync(SearchInventoryFilter??string.Empty)).ToList();
-    }   
+    }
 }

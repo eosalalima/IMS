@@ -91,3 +91,4 @@ F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.WebApp\bin\Debug\net10.0\IMS.Plugins.InMemory.pdb
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.WebApp\obj\Debug\net10.0\IMS.WebApp.csproj.AssemblyReference.cache
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.WebApp\obj\Debug\net10.0\IMS.WebApp.csproj.Up2Date
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.WebApp\obj\Debug\net10.0\IMS.WebApp.sourcelink.json

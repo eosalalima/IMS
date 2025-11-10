@@ -2,11 +2,21 @@
 
 <h3>Inventory List</h3>
 <br/>
-<InventoryListComponent SearchInventoryFilter="" />
+
+<SearchComponent OnSearch="HandleSearch" />
+<br/>
+
+<InventoryListComponent SearchInventoryFilter="@inventoryNameToSearch" />
 <br/>
 
 <a href="/addinventory" class="btn btn-primary">Add Inventory</a>
 
 @code {
 
+    private string? inventoryNameToSearch = string.Empty;
+
+    private void HandleSearch(string searchFilter)
+    {
+        inventoryNameToSearch = searchFilter;
+    }   
 }
