@@ -13,3 +13,4 @@ F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\refint\IMS.UseCases.dll
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.pdb
 F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\ref\IMS.UseCases.dll
+F:\Projects\Training\dotNET Master Blazor Build Inventory System\Application\IMS\IMS.UseCases\obj\Debug\net10.0\IMS.UseCases.sourcelink.json
